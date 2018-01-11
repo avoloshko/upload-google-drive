@@ -5,6 +5,7 @@ Overwriting creates a revision.
 
 [gdrive](https://github.com/prasmussen/gdrive) is a command line utility for interacting with Google Drive.
 
+gdrive_publish.sh:
 ```bash
 #!/bin/sh
 
