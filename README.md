@@ -33,3 +33,6 @@ Example:
 ```bash
 sh gdrive_publish.sh 0A1Eg6nOIQNNKeUJ1TGxPZHl1aE0 app/build/outputs/apk/LitecoinWallet.apk
 ```
+
+PARENT_ID can be found on Google Drive:
+![alt text](https://raw.githubusercontent.com/avoloshko/upload-google-drive/master/parent_id.png)
